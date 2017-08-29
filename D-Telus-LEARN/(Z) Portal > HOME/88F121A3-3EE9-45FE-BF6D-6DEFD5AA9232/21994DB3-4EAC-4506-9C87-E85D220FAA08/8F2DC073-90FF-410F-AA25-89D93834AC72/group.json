@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "8F2DC073-90FF-410F-AA25-89D93834AC72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 188,
+    "width": 536,
+    "x": 0,
+    "y": 246
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C5BB407-5F7F-4457-A4ED-DBA2353EE1EE"
+    },
+    {
+      "class": "group",
+      "id": "4888F5DD-E8D9-4678-B38B-37BF25971E62"
+    },
+    {
+      "class": "text",
+      "id": "5EFBD6C8-7D81-4838-ACF8-3D8DD8FF144C"
+    },
+    {
+      "class": "text",
+      "id": "8175F9A6-4741-4BA2-B404-8A2D68294EB7"
+    }
+  ],
+  "name": "Ladybug",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

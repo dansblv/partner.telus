@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "C91E0A4C-A26F-45DA-8230-D70165D05FD2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 348,
+    "width": 336,
+    "x": 400,
+    "y": 32
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EB522370-F02A-44C5-BF01-E00A99DA9C2E"
+    },
+    {
+      "class": "text",
+      "id": "BB5C2833-4D68-4789-8F1C-792303AB0754"
+    },
+    {
+      "class": "text",
+      "id": "69528C2A-54DF-43F9-97F1-A7E82482136A"
+    },
+    {
+      "class": "text",
+      "id": "2F0B36F5-EFFA-47A7-AE86-74C5BD686FB8"
+    },
+    {
+      "class": "text",
+      "id": "74CB9DD2-381D-46F8-B99A-85FB5C451F63"
+    }
+  ],
+  "name": "Register",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

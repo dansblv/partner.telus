@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "9FE27A50-6DCA-4F62-9FAF-B94569B4CF9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 148,
+    "x": 0,
+    "y": 69
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9E6F9647-2D1E-4C2A-BA02-26358A2A1A8F"
+    },
+    {
+      "class": "text",
+      "id": "B7D92A65-7B85-4A42-9D5C-540667DD4843"
+    }
+  ],
+  "name": "Web Base Tool",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

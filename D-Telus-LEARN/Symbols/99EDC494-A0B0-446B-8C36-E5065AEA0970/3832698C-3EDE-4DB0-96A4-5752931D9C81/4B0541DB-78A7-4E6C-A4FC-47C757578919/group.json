@@ -1,0 +1,50 @@
+{
+  "_class": "group",
+  "do_objectID": "4B0541DB-78A7-4E6C-A4FC-47C757578919",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 103,
+    "x": 105,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B2C47323-96AD-4F84-A625-6FD8A87F4A89"
+    },
+    {
+      "class": "text",
+      "id": "126D0C8C-EE6F-4380-8638-E86D26CAA441"
+    }
+  ],
+  "name": "Business",
+  "nameIsFixed": true,
+  "originalObjectID": "4B0541DB-78A7-4E6C-A4FC-47C757578919",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "page",
+  "do_objectID": "AD18454A-4035-4F01-B2EB-938EA20C2CF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 6
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -877,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "BB59E740-9F26-4F59-8685-22416A1E2FA2"
+    },
+    {
+      "class": "artboard",
+      "id": "88F121A3-3EE9-45FE-BF6D-6DEFD5AA9232"
+    },
+    {
+      "class": "artboard",
+      "id": "C2F78F63-AC97-48A6-8252-D4D895E39627"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 23,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 6,
+    "guttersOutside": true,
+    "horizontalOffset": 6,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 348
+  },
+  "name": "(Z) Portal > HOME",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "includeHotspotsWhenSyncing": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -529,
+    "guides": [
+    ]
+  }
+}

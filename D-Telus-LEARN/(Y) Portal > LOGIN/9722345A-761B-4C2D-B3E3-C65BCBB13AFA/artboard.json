@@ -1,0 +1,122 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "9722345A-761B-4C2D-B3E3-C65BCBB13AFA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1550,
+    "width": 1440,
+    "x": 763,
+    "y": -529
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 4,
+    "isEnabled": false,
+    "thickGridTimes": 3
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      120,
+      220,
+      320,
+      420,
+      520,
+      620,
+      720,
+      820,
+      920,
+      1020,
+      1120,
+      1220,
+      1320
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "19530100-8561-4013-9BE3-A981B6E4C0C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FCFB03F5-92AF-47FC-B398-2CC8F5FBE9D3"
+    },
+    {
+      "class": "text",
+      "id": "5D9134DB-531B-4B91-AA78-584F7F5D4EE8"
+    },
+    {
+      "class": "group",
+      "id": "89A8D6D5-A44B-441D-95E6-4588E045B235"
+    },
+    {
+      "class": "group",
+      "id": "BB3A7CD4-AAB2-4DE4-9237-AC9ADA0B591E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E6B93480-9BA3-49AD-A444-9F6FF4EBE1B0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 68,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 32,
+    "guttersOutside": false,
+    "horizontalOffset": 136,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 1168
+  },
+  "name": "Y1 – Initial, Alt 1",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

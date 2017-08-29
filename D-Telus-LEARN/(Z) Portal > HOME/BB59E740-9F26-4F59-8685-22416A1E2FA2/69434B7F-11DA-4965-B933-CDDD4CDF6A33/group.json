@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "69434B7F-11DA-4965-B933-CDDD4CDF6A33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 480,
+    "width": 516,
+    "x": 720,
+    "y": 360
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5A5313B-B8C9-4B2C-810D-39FD576F89C8"
+    },
+    {
+      "class": "text",
+      "id": "71E19D25-C691-47F5-8C69-420C44C6F4F9"
+    },
+    {
+      "class": "text",
+      "id": "48DF5E3F-2424-40F4-908B-918327F65AA8"
+    },
+    {
+      "class": "text",
+      "id": "57F0EF82-0C32-4136-B6BC-A8E0D17A6D80"
+    },
+    {
+      "class": "group",
+      "id": "E65BB383-9B5F-44C5-AE0F-767E577763AF"
+    },
+    {
+      "class": "group",
+      "id": "0C259354-ACAD-4ED4-83F3-FE26CC1E04BE"
+    }
+  ],
+  "name": "Info / FAQs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

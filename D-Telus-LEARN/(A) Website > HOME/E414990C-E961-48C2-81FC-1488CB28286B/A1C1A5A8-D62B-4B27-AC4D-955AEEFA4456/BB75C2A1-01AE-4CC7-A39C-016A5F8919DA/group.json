@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "BB75C2A1-01AE-4CC7-A39C-016A5F8919DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 105,
+    "x": 324,
+    "y": 445
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "69D4E669-9870-4269-9E5C-366BA5AC4AF5"
+    },
+    {
+      "class": "text",
+      "id": "9F47CD2B-81D6-453A-87A0-63EA4EA6352E"
+    }
+  ],
+  "name": "TELUS IQ",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

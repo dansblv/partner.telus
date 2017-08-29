@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "018F9013-7797-467E-A0EF-2F828AF6B4B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 159,
+    "x": 324,
+    "y": 409
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "86C6F767-9921-4E4B-ABBE-8013A9377794"
+    },
+    {
+      "class": "text",
+      "id": "4FDFF5CC-9147-4305-8991-35495332A66D"
+    }
+  ],
+  "name": "TELUS Evolve™",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

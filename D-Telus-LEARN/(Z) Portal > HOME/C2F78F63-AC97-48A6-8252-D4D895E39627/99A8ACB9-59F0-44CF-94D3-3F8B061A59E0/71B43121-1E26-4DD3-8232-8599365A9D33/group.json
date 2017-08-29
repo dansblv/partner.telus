@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "71B43121-1E26-4DD3-8232-8599365A9D33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 188,
+    "width": 536,
+    "x": 0,
+    "y": 450
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F7D2D0BF-9681-4D9D-9F69-0A971CA39870"
+    },
+    {
+      "class": "group",
+      "id": "297C6E4B-B115-4107-A59F-A6AE9095E1B8"
+    },
+    {
+      "class": "text",
+      "id": "81F7D74F-9683-4779-9CEF-44F555C9047F"
+    },
+    {
+      "class": "text",
+      "id": "27F59421-05D9-4C6B-B191-88F8D972DE58"
+    }
+  ],
+  "name": "TELUS Password Portal",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

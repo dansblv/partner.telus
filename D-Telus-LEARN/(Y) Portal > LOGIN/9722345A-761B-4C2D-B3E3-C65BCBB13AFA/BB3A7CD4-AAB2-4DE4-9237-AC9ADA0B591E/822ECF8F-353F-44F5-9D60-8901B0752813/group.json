@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "822ECF8F-353F-44F5-9D60-8901B0752813",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 88,
+    "x": 0,
+    "y": 321
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "67DB80A5-5355-438E-BE8C-BD2BB8A0D183"
+    },
+    {
+      "class": "text",
+      "id": "199477AB-4C08-4CA5-A19B-5AD8FAAB061A"
+    }
+  ],
+  "name": "NCAMs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
