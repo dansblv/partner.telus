@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "2DE450EE-DB04-477A-9423-195D47560C74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 184,
+    "x": 324,
+    "y": 337
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "40F3CB8C-3A26-4D93-BD5B-B76B25312A39"
+    },
+    {
+      "class": "text",
+      "id": "835CC356-19B2-46FF-BA58-F7A15F36350B"
+    }
+  ],
+  "name": "Billing Dispute Tool",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

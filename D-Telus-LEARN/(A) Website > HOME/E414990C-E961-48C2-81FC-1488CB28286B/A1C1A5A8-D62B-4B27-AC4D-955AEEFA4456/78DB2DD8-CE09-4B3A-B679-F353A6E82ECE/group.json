@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "78DB2DD8-CE09-4B3A-B679-F353A6E82ECE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 250,
+    "x": 324,
+    "y": 301
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9F5DACFE-E356-4EF2-8C01-A1CBFD40E0C0"
+    },
+    {
+      "class": "text",
+      "id": "2DAFD669-D2C5-4471-A01F-FADBEF8130D7"
+    }
+  ],
+  "name": "VPOP Website (CCR & ISP)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

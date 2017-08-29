@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "9167E1F4-44DE-42D0-B39C-B3D4D2BBA099",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 336,
+    "x": 32,
+    "y": 171
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "361563F0-D0C8-43B1-A272-43A0D9CC6EA0"
+    },
+    {
+      "class": "text",
+      "id": "9D5E50B1-6FD0-4B19-AA76-A809F9F74D94"
+    },
+    {
+      "class": "text",
+      "id": "8076620A-4B0D-42B6-8B65-477183A09A07"
+    },
+    {
+      "class": "text",
+      "id": "DDBFC261-92ED-469E-A18B-606A9A570759"
+    }
+  ],
+  "name": "Password",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

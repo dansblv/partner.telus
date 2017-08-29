@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "3D0A728B-B532-4858-A132-FD971DFC355D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 81,
+    "x": 324,
+    "y": 373
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "224E510E-3733-4FF3-AD5C-9D351F3DFCE9"
+    },
+    {
+      "class": "text",
+      "id": "5F2944F3-349A-492D-9046-3CFE5D800144"
+    }
+  ],
+  "name": "Jasper",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "99A8ACB9-59F0-44CF-94D3-3F8B061A59E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 684,
+    "width": 536,
+    "x": 152,
+    "y": 366
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "CC6B8778-801D-4F87-8400-EA233E5A8B53"
+    },
+    {
+      "class": "group",
+      "id": "F4711C81-CC40-40C7-9ED5-2F592163C681"
+    },
+    {
+      "class": "group",
+      "id": "B9E661F5-5CC4-42E5-8DE5-9BFC4C3F4A55"
+    },
+    {
+      "class": "group",
+      "id": "71B43121-1E26-4DD3-8232-8599365A9D33"
+    },
+    {
+      "class": "group",
+      "id": "1B8893AB-F9D4-4113-A6A5-F503634773DC"
+    }
+  ],
+  "name": "Linked Accounts",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

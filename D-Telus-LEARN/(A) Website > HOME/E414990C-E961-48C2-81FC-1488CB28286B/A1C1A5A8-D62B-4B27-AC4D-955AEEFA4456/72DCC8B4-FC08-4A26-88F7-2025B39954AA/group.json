@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "72DCC8B4-FC08-4A26-88F7-2025B39954AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 114,
+    "x": 324,
+    "y": 193
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C62B7EEC-DD3B-4426-BD8C-8AF547BEDB0E"
+    },
+    {
+      "class": "text",
+      "id": "582CE515-06D5-4651-8018-D69C3372B6C7"
+    }
+  ],
+  "name": "CLEC OSS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

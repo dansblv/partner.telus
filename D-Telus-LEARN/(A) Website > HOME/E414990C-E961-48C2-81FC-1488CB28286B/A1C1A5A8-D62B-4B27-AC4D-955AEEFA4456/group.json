@@ -1,0 +1,129 @@
+{
+  "_class": "group",
+  "do_objectID": "A1C1A5A8-D62B-4B27-AC4D-955AEEFA4456",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 492,
+    "width": 600,
+    "x": 720,
+    "y": 100
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "227A83E5-5E8B-4EF2-B4FF-FEA34A27E1C3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6FEE7194-24D5-4E19-8A80-AF53E8A2E1C0"
+    },
+    {
+      "class": "group",
+      "id": "D58D47C9-3308-4A49-929A-AD4D546CFDAA"
+    },
+    {
+      "class": "text",
+      "id": "2EB35B6D-533C-4433-BBE7-24D4229EA8E2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F0EE5DC5-2D0E-41BC-8CC0-A7034BE5D936"
+    },
+    {
+      "class": "text",
+      "id": "5C733E7B-1A48-4275-B446-F359137E1A90"
+    },
+    {
+      "class": "group",
+      "id": "7C5AE537-3DBA-4EB8-A637-8EC60CAA8115"
+    },
+    {
+      "class": "group",
+      "id": "DE414E02-C958-456E-A298-16D53A7CDC8F"
+    },
+    {
+      "class": "group",
+      "id": "AB005925-8D02-43CA-B364-051A01027481"
+    },
+    {
+      "class": "group",
+      "id": "2E58EFFB-B115-4676-80AF-B711CADF43CE"
+    },
+    {
+      "class": "group",
+      "id": "BE88C5F2-2DFC-406D-AA5B-535ACBDF1EAF"
+    },
+    {
+      "class": "group",
+      "id": "6269C6A6-E82B-4DB0-844B-C0A0B83425DA"
+    },
+    {
+      "class": "group",
+      "id": "765344E9-E7ED-4190-9E20-B2B035DE9397"
+    },
+    {
+      "class": "group",
+      "id": "6CE51AC0-69C1-41B0-9E4E-A79AB6DE0F91"
+    },
+    {
+      "class": "group",
+      "id": "72DCC8B4-FC08-4A26-88F7-2025B39954AA"
+    },
+    {
+      "class": "group",
+      "id": "B9612B1A-D4C6-4D6E-AE44-425C731A8FA4"
+    },
+    {
+      "class": "group",
+      "id": "C47A2184-BF4A-4C1F-ACA3-217E5D86447A"
+    },
+    {
+      "class": "group",
+      "id": "78DB2DD8-CE09-4B3A-B679-F353A6E82ECE"
+    },
+    {
+      "class": "group",
+      "id": "2DE450EE-DB04-477A-9423-195D47560C74"
+    },
+    {
+      "class": "group",
+      "id": "3D0A728B-B532-4858-A132-FD971DFC355D"
+    },
+    {
+      "class": "group",
+      "id": "018F9013-7797-467E-A0EF-2F828AF6B4B1"
+    },
+    {
+      "class": "group",
+      "id": "BB75C2A1-01AE-4CC7-A39C-016A5F8919DA"
+    }
+  ],
+  "name": "Nav Drawer",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

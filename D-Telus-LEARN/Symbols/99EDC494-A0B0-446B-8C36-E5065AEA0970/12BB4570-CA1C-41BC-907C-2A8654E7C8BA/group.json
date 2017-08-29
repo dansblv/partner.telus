@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "12BB4570-CA1C-41BC-907C-2A8654E7C8BA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36,
+    "width": 405,
+    "x": 320,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B7668E04-E45C-4680-95F5-BAC063DBF188"
+    },
+    {
+      "class": "group",
+      "id": "6A0AA3AF-6926-4A1D-ABB6-62CBE4BF330A"
+    },
+    {
+      "class": "group",
+      "id": "975DFE36-2AC5-4293-8FA0-3BD853607986"
+    },
+    {
+      "class": "group",
+      "id": "7EBD5280-AD69-432C-B04A-996468C8622C"
+    }
+  ],
+  "name": "Global Nav 3",
+  "nameIsFixed": true,
+  "originalObjectID": "12BB4570-CA1C-41BC-907C-2A8654E7C8BA",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

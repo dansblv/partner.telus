@@ -1,0 +1,49 @@
+{
+  "_class": "group",
+  "do_objectID": "47E5C14A-B283-405B-9B2A-E0A899369A7A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 25,
+    "width": 224,
+    "x": 0,
+    "y": 249
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F168C315-03BB-420E-8437-608604489A50"
+    },
+    {
+      "class": "text",
+      "id": "3B28789B-9E67-494F-8E3D-2970F853F05F"
+    }
+  ],
+  "name": "Carrier Direct Self Serve",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
